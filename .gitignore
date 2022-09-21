@@ -1,1 +1,17 @@
+# assets
 /img
+
+#fireBase general
+firebaseConfig.js
+.firebase
+
+# Firebase Hosting
+.firebaserc
+firebase-debug.log
+
+# debug
+ui-debug.log*
+firebase-debug.log*
+
+#
+/node_modules/
