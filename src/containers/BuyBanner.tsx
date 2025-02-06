@@ -11,7 +11,7 @@ interface Props {
 
 const BuyBanner = ({ title, body, price, img, topic }: Props) => {
   return (
-    <div className="container-fluid my-5 shadow-lg wow fadeInUp">
+    <div className="container-fluid my-5 shadow wow fadeInUp">
       <div className="row text-white flex-column-reverse flex-lg-row">
         <div className="col-12 col-lg-6 p-4 p-sm-5 p-md-5 text- text-md-left" style={{ backgroundColor: "#413e66" }}>
           <div className="p-md-2">

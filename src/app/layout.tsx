@@ -54,6 +54,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
       <head>
         <link href="img/favicon.png" rel="icon" type="image/png" />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(getSocials) }} />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
       </head>
 
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`} style={{ margin: 0 }}>
