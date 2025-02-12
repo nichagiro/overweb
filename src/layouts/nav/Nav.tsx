@@ -23,7 +23,7 @@ const Nav = () => {
           <ul>
             <li className={path == "/" ? "active" : ""}><Link href="/">Inicio</Link></li>
             <li className={path == "/paginas" ? "active" : ""}><Link href="/paginas">Páginas</Link></li>
-            <li className={path == "/tiendavirtual" ? "active" : ""}><Link href="/tiendavirtual">tienda Virtual</Link></li>
+            <li className={path == "/tienda-virtual" ? "active" : ""}><Link href="/tienda-virtual">tienda Virtual</Link></li>
             <li className={path == "/logos" ? "active" : ""}><Link href="/logos">logos</Link></li>
             <li className={path == "/capacitaciones" ? "active" : ""}><Link href="/capacitaciones">capacitaciones</Link></li>
           </ul>
