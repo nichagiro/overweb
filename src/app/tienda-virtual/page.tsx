@@ -5,7 +5,7 @@ import { Metadata } from "next";
 
 const title = "Overweb | Tiendas Virtuales | Ecoomerce | Diseño de tiendas virtuales"
 const description = "Overweb diseño de tiendas virtuales, convertimos su negocio en comercio electronico, venda de manera automatica a sus clientes en linea, ecommerce."
-const url = "https://overweb.com.co/tiendavirtual"
+const url = "https://overweb.com.co/tienda-virtual"
 const images = "https://overweb.com.co/img/desing/09.png"
 
 export const metadata: Metadata = {

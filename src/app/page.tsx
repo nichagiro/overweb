@@ -9,7 +9,7 @@ import { Metadata } from "next";
 
 const title = "Overweb | Paginas Web | Tiendas Virtuales | Capacitaciones | Logos"
 const description = "paginas web, tiendas virtuales, capacitaciones, logotipo, mantenimiento de computadores, ecommerce, software personalizado, instalacion windows."
-const url = "https://overweb.com.co/"
+const url = "https://overweb.com.co"
 const images = "https://overweb.com.co/img/desing/01.png"
 
 export const metadata: Metadata = {
